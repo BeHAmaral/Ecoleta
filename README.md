@@ -35,6 +35,8 @@ An online and completely free event that will help you take the next step in you
 Ecoleta is a project developed based on international environment week. 
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
+![ecoleta](https://user-images.githubusercontent.com/66285652/84300405-9ed4a900-ab28-11ea-90ca-4981d10fb8cc.gif)
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
